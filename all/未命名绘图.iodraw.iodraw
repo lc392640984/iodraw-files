@@ -25,11 +25,20 @@
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-4" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="600" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4fgdvN7vvx3lTf_ejvxZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fgdvN7vvx3lTf_ejvxZ-10" target="4fgdvN7vvx3lTf_ejvxZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-10" value="定时时间到" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="370" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4fgdvN7vvx3lTf_ejvxZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fgdvN7vvx3lTf_ejvxZ-11" target="4fgdvN7vvx3lTf_ejvxZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-11" value="进入定时中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fgdvN7vvx3lTf_ejvxZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fgdvN7vvx3lTf_ejvxZ-12" target="4fgdvN7vvx3lTf_ejvxZ-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-12" value="翻转LED0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="490" width="120" height="40" as="geometry" />
