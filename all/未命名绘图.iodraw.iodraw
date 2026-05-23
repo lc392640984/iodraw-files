@@ -29,13 +29,13 @@
           <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-11" value="进入定时中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-12" value="翻转LED0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-13" value="中断返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="580" width="120" height="50" as="geometry" />
+          <mxGeometry x="540" y="580" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
