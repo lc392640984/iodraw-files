@@ -66,14 +66,17 @@
         <mxCell id="-9qqJeCOGxfsJNJuvoyf-26" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="465" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-9qqJeCOGxfsJNJuvoyf-29" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1" edge="1" parent="1">
+        <mxCell id="-9qqJeCOGxfsJNJuvoyf-29" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="310" as="sourcePoint" />
-            <mxPoint x="610" y="470" as="targetPoint" />
+            <mxPoint x="610" y="320" as="sourcePoint" />
+            <mxPoint x="610" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-9qqJeCOGxfsJNJuvoyf-30" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="395" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-9qqJeCOGxfsJNJuvoyf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.181;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-9qqJeCOGxfsJNJuvoyf-26" target="-9qqJeCOGxfsJNJuvoyf-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
