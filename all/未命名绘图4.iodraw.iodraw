@@ -25,20 +25,32 @@
         <mxCell id="-9qqJeCOGxfsJNJuvoyf-7" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="670" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-9qqJeCOGxfsJNJuvoyf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9qqJeCOGxfsJNJuvoyf-9" target="-9qqJeCOGxfsJNJuvoyf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-9qqJeCOGxfsJNJuvoyf-9" value="进入主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-9qqJeCOGxfsJNJuvoyf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9qqJeCOGxfsJNJuvoyf-10" target="-9qqJeCOGxfsJNJuvoyf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-9qqJeCOGxfsJNJuvoyf-10" value="清屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-9qqJeCOGxfsJNJuvoyf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9qqJeCOGxfsJNJuvoyf-11" target="-9qqJeCOGxfsJNJuvoyf-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-9qqJeCOGxfsJNJuvoyf-11" value="LCD_INIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-9qqJeCOGxfsJNJuvoyf-12" value="显示温度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-9qqJeCOGxfsJNJuvoyf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="570" width="120" height="50" as="geometry" />
+        <mxCell id="-9qqJeCOGxfsJNJuvoyf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-9qqJeCOGxfsJNJuvoyf-13" target="-9qqJeCOGxfsJNJuvoyf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9qqJeCOGxfsJNJuvoyf-13" value="调用DisProcess刷新温度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
