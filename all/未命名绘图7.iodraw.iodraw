@@ -284,7 +284,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p2mxsvJtcAzYuZVrcmHk-62" value="&lt;div&gt;读EEPROM&lt;/div&gt;&lt;div&gt;TFT显示结果&lt;/div&gt;&lt;div&gt;WRFlag=0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="870" width="120" height="50" as="geometry" />
+          <mxGeometry x="430" y="880" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p2mxsvJtcAzYuZVrcmHk-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="p2mxsvJtcAzYuZVrcmHk-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
