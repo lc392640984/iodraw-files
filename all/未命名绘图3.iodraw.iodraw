@@ -8,28 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBe8P0wUL-nO-ibF91fb-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gBe8P0wUL-nO-ibF91fb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gBe8P0wUL-nO-ibF91fb-4" target="gBe8P0wUL-nO-ibF91fb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBe8P0wUL-nO-ibF91fb-4" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gBe8P0wUL-nO-ibF91fb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gBe8P0wUL-nO-ibF91fb-6" target="gBe8P0wUL-nO-ibF91fb-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gBe8P0wUL-nO-ibF91fb-6" value="配置外部中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="gBe8P0wUL-nO-ibF91fb-6" value="配置ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gBe8P0wUL-nO-ibF91fb-7" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gBe8P0wUL-nO-ibF91fb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gBe8P0wUL-nO-ibF91fb-9" target="gBe8P0wUL-nO-ibF91fb-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBe8P0wUL-nO-ibF91fb-9" value="以中断方式启动定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="493" width="120" height="55" as="geometry" />
+          <mxGeometry x="250" y="483" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
