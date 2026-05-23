@@ -31,7 +31,7 @@
         <mxCell id="doAekRewBzSZ4UDeg7is-9" value="按下KEY1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="doAekRewBzSZ4UDeg7is-10" value="进入定时中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="doAekRewBzSZ4UDeg7is-10" value="进入外部中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="317" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="doAekRewBzSZ4UDeg7is-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="doAekRewBzSZ4UDeg7is-12" target="doAekRewBzSZ4UDeg7is-14">
