@@ -138,7 +138,7 @@
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--42" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="221" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xj-71GQ-oLVPa4DhjPQ--55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.73;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xj-71GQ-oLVPa4DhjPQ--69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="251.00000000000023" as="sourcePoint" />
             <mxPoint x="670" y="610" as="targetPoint" />
@@ -146,6 +146,8 @@
               <mxPoint x="630" y="441" />
               <mxPoint x="670" y="441" />
               <mxPoint x="670" y="502" />
+              <mxPoint x="680" y="502" />
+              <mxPoint x="680" y="604" />
             </Array>
           </mxGeometry>
         </mxCell>
