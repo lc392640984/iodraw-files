@@ -31,9 +31,6 @@
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-10" value="定时时间到" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4fgdvN7vvx3lTf_ejvxZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fgdvN7vvx3lTf_ejvxZ-11" target="4fgdvN7vvx3lTf_ejvxZ-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-11" value="进入定时中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="120" height="40" as="geometry" />
         </mxCell>
@@ -45,6 +42,12 @@
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-13" value="中断返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="545" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fgdvN7vvx3lTf_ejvxZ-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="450" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
