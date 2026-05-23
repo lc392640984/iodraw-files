@@ -195,6 +195,9 @@
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--52" value="格式化温度字符串&lt;div&gt;写EEPROM&lt;/div&gt;&lt;div&gt;WRFlag=1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="401" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xj-71GQ-oLVPa4DhjPQ--53" target="xj-71GQ-oLVPa4DhjPQ--69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--53" value="清空buffer&lt;div&gt;重启中断&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="501" width="120" height="50" as="geometry" />
         </mxCell>
