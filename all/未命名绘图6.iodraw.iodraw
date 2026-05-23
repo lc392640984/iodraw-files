@@ -135,9 +135,6 @@
             <mxPoint x="569.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xj-71GQ-oLVPa4DhjPQ--57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xj-71GQ-oLVPa4DhjPQ--42" target="xj-71GQ-oLVPa4DhjPQ--50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--42" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="360" width="60" height="30" as="geometry" />
         </mxCell>
@@ -182,6 +179,12 @@
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--53" value="清空buffer&lt;div&gt;重启中断&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="610" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="390" as="sourcePoint" />
+            <mxPoint x="580" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
