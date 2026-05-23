@@ -192,8 +192,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p2mxsvJtcAzYuZVrcmHk-44" value="格式化温度字符串&lt;div&gt;写EEPROM&lt;/div&gt;&lt;div&gt;WRFlag=1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="401" width="120" height="50" as="geometry" />
+        <mxCell id="p2mxsvJtcAzYuZVrcmHk-44" value="拼接字符串和温度数据&lt;br&gt;&lt;div&gt;写EEPROM&lt;/div&gt;&lt;div&gt;WRFlag=1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="401" width="120" height="59" as="geometry" />
         </mxCell>
         <mxCell id="p2mxsvJtcAzYuZVrcmHk-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p2mxsvJtcAzYuZVrcmHk-46" target="p2mxsvJtcAzYuZVrcmHk-54">
           <mxGeometry relative="1" as="geometry" />
