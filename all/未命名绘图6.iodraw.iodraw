@@ -4,6 +4,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xj-71GQ-oLVPa4DhjPQ--2" target="xj-71GQ-oLVPa4DhjPQ--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xj-71GQ-oLVPa4DhjPQ--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--4" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xj-71GQ-oLVPa4DhjPQ--7" target="xj-71GQ-oLVPa4DhjPQ--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--7" value="进入主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xj-71GQ-oLVPa4DhjPQ--9" target="xj-71GQ-oLVPa4DhjPQ--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--9" value="调用UnProcess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
