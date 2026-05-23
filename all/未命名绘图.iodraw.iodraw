@@ -43,7 +43,7 @@
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fgdvN7vvx3lTf_ejvxZ-13" target="4fgdvN7vvx3lTf_ejvxZ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fgdvN7vvx3lTf_ejvxZ-13" value="中断返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fgdvN7vvx3lTf_ejvxZ-13" value="清除定时中断标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
