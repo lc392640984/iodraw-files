@@ -105,7 +105,7 @@
         <mxCell id="p2mxsvJtcAzYuZVrcmHk-25" value="处理温度数据并显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="435" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p2mxsvJtcAzYuZVrcmHk-26" value="中断触发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p2mxsvJtcAzYuZVrcmHk-26" value="记录接收长度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="720" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p2mxsvJtcAzYuZVrcmHk-27" value="rxFlag=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -313,7 +313,7 @@
         <mxCell id="p2mxsvJtcAzYuZVrcmHk-67" value="返回" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="979" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p2mxsvJtcAzYuZVrcmHk-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p2mxsvJtcAzYuZVrcmHk-68" value="中断触发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="650" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
