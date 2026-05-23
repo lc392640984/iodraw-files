@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-10" value="定时时间到" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="345" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="350" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-11" value="进入定时中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="405" width="120" height="35" as="geometry" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-13" value="清除定时中断标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="520" width="120" height="30" as="geometry" />
+          <mxGeometry x="540" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fgdvN7vvx3lTf_ejvxZ-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
