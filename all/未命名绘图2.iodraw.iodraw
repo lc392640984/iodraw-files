@@ -68,7 +68,7 @@
         <mxCell id="doAekRewBzSZ4UDeg7is-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="doAekRewBzSZ4UDeg7is-18" target="doAekRewBzSZ4UDeg7is-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="doAekRewBzSZ4UDeg7is-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="doAekRewBzSZ4UDeg7is-18" value="以中断方式启动定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="490" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
