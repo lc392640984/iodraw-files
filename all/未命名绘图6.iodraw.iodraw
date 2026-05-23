@@ -248,7 +248,7 @@
             <mxPoint x="610" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xj-71GQ-oLVPa4DhjPQ--72" value="帧格式校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--72" value="K2按键按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="860" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--73" value="通过" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
