@@ -156,8 +156,8 @@
             <mxPoint x="610" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xj-71GQ-oLVPa4DhjPQ--48" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="460" width="80" height="80" as="geometry" />
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--48" value="帧格式校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
