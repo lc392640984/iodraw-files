@@ -28,8 +28,26 @@
         <mxCell id="gBe8P0wUL-nO-ibF91fb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gBe8P0wUL-nO-ibF91fb-9" target="gBe8P0wUL-nO-ibF91fb-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gBe8P0wUL-nO-ibF91fb-9" value="以中断方式启动定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gBe8P0wUL-nO-ibF91fb-9" value="进入主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="483" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gBe8P0wUL-nO-ibF91fb-10" value="计算温度传感器实际电压" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="425" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gBe8P0wUL-nO-ibF91fb-11" value="计算实际参考电压" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gBe8P0wUL-nO-ibF91fb-13" value="调用温度传感器ADC" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gBe8P0wUL-nO-ibF91fb-14" value="调用内部参考电压ADC" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="295" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gBe8P0wUL-nO-ibF91fb-15" value="计算当前温度" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gBe8P0wUL-nO-ibF91fb-16" value="返回主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
