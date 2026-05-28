@@ -19,7 +19,7 @@
           <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="810" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xj-71GQ-oLVPa4DhjPQ--7" target="xj-71GQ-oLVPa4DhjPQ--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,9 +32,6 @@
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--9" value="配置ADC为扫描模式&lt;div&gt;开启温度传感器通道&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xj-71GQ-oLVPa4DhjPQ--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xj-71GQ-oLVPa4DhjPQ--10" target="xj-71GQ-oLVPa4DhjPQ--5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--10" value="启动ADC转换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
