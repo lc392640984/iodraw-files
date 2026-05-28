@@ -19,7 +19,7 @@
           <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="1020" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xj-71GQ-oLVPa4DhjPQ--7" target="xj-71GQ-oLVPa4DhjPQ--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MPm4vAxqcFPFps4HYBoY-6" value="返回温度值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wUN56keZzmfnrLn9kcBQ-1" value="按键K2按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="750" width="80" height="80" as="geometry" />
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="wUN56keZzmfnrLn9kcBQ-7" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUN56keZzmfnrLn9kcBQ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
