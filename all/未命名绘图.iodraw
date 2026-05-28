@@ -15,7 +15,7 @@
             <mxPoint x="170" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xj-71GQ-oLVPa4DhjPQ--4" value="初始化&lt;div&gt;开启串口中断&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--4" value="初始化&lt;div&gt;系统初始化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="409" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -58,17 +58,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="829" as="sourcePoint" />
             <mxPoint x="400" y="779" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xj-71GQ-oLVPa4DhjPQ--55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.73;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="xj-71GQ-oLVPa4DhjPQ--69" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="310.0000000000002" as="sourcePoint" />
-            <mxPoint x="730" y="669" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="500" />
-              <mxPoint x="730" y="500" />
-              <mxPoint x="730" y="673" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--66" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
