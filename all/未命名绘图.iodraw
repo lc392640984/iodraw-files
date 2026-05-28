@@ -45,10 +45,16 @@
         <mxCell id="MPm4vAxqcFPFps4HYBoY-2" value="读取采样值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MPm4vAxqcFPFps4HYBoY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPm4vAxqcFPFps4HYBoY-3" target="MPm4vAxqcFPFps4HYBoY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MPm4vAxqcFPFps4HYBoY-3" value="计算温度值&lt;div&gt;（电压换算）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MPm4vAxqcFPFps4HYBoY-6" value="计算温度值&lt;div&gt;（电压换算）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MPm4vAxqcFPFps4HYBoY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPm4vAxqcFPFps4HYBoY-6" target="xj-71GQ-oLVPa4DhjPQ--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPm4vAxqcFPFps4HYBoY-6" value="返回温度值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
