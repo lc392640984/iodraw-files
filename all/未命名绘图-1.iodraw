@@ -19,7 +19,7 @@
           <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--5" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xj-71GQ-oLVPa4DhjPQ--7" target="xj-71GQ-oLVPa4DhjPQ--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,16 +47,11 @@
         <mxCell id="MPm4vAxqcFPFps4HYBoY-2" value="写入EEPROM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MPm4vAxqcFPFps4HYBoY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="MPm4vAxqcFPFps4HYBoY-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="960" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MPm4vAxqcFPFps4HYBoY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MPm4vAxqcFPFps4HYBoY-6" target="xj-71GQ-oLVPa4DhjPQ--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MPm4vAxqcFPFps4HYBoY-6" value="返回温度值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wUN56keZzmfnrLn9kcBQ-1" value="按键K2按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="750" width="80" height="80" as="geometry" />
