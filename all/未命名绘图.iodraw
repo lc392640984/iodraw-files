@@ -36,7 +36,7 @@
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xj-71GQ-oLVPa4DhjPQ--10" target="xj-71GQ-oLVPa4DhjPQ--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xj-71GQ-oLVPa4DhjPQ--10" value="调用Z24C02Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xj-71GQ-oLVPa4DhjPQ--10" value="启动ADC转换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="699" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--28" value="中断触发" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
