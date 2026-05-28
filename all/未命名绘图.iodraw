@@ -36,6 +36,15 @@
         <mxCell id="xj-71GQ-oLVPa4DhjPQ--10" value="启动ADC转换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MPm4vAxqcFPFps4HYBoY-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPm4vAxqcFPFps4HYBoY-2" target="MPm4vAxqcFPFps4HYBoY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPm4vAxqcFPFps4HYBoY-2" value="配置ADC为扫描模式&lt;div&gt;开启温度传感器通道&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPm4vAxqcFPFps4HYBoY-3" value="启动ADC转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
