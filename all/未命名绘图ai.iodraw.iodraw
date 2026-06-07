@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1Jha3KM2MmCH4JvH-PdE-1" value="系统初始化" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
