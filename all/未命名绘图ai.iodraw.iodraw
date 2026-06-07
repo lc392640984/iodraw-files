@@ -16,6 +16,12 @@
         <mxCell id="1Jha3KM2MmCH4JvH-PdE-4" value="ADC读取电位器值" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="190" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1Jha3KM2MmCH4JvH-PdE-5" value="计算PWM占空比" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jha3KM2MmCH4JvH-PdE-6" value="过流检测?" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
