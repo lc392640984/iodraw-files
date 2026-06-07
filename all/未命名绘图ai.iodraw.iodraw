@@ -22,6 +22,12 @@
         <mxCell id="1Jha3KM2MmCH4JvH-PdE-6" value="过流检测?" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1Jha3KM2MmCH4JvH-PdE-7" value="按键检测?" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jha3KM2MmCH4JvH-PdE-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
