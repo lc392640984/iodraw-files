@@ -10,6 +10,9 @@
         <mxCell id="GJ-nzRgwGRu18Ie35tq--1" value="初始化IO口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GJ-nzRgwGRu18Ie35tq--2" target="GJ-nzRgwGRu18Ie35tq--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--2" value="对DS18B20发送温度转换命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,9 +42,6 @@
             <mxPoint x="130" y="500" as="sourcePoint" />
             <mxPoint x="130" y="260" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GJ-nzRgwGRu18Ie35tq--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GJ-nzRgwGRu18Ie35tq--15" target="GJ-nzRgwGRu18Ie35tq--3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--15" value="进入主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
