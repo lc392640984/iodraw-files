@@ -7,7 +7,7 @@
         <mxCell id="GJ-nzRgwGRu18Ie35tq--35" value="复位P3.7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GJ-nzRgwGRu18Ie35tq--36" value="拉低DQ一段时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--36" value="单片机拉低DQ一段时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--37" value="释放总线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--38" value="DS18B20存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="380" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
