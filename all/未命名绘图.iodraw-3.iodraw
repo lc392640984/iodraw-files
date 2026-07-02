@@ -7,8 +7,11 @@
         <mxCell id="GJ-nzRgwGRu18Ie35tq--1" value="初始化IO口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GJ-nzRgwGRu18Ie35tq--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--2" value="对DS18B20发送温度转换命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
