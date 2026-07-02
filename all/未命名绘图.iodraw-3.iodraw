@@ -16,6 +16,9 @@
         <mxCell id="GJ-nzRgwGRu18Ie35tq--38" value="DS18B20" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="380" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GJ-nzRgwGRu18Ie35tq--39" target="GJ-nzRgwGRu18Ie35tq--48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--39" value="DS18B20拉低DQ作为存在脉冲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -56,7 +59,7 @@
         <mxCell id="GJ-nzRgwGRu18Ie35tq--46" value="返回0结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GJ-nzRgwGRu18Ie35tq--48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--48" value="单片机发送控制命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
