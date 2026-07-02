@@ -34,6 +34,9 @@
         <mxCell id="lbLH8gk7Jo5RWtjhjsnp-15" value="关闭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lbLH8gk7Jo5RWtjhjsnp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lbLH8gk7Jo5RWtjhjsnp-21" target="lbLH8gk7Jo5RWtjhjsnp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lbLH8gk7Jo5RWtjhjsnp-21" value="k+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="690" width="120" height="60" as="geometry" />
         </mxCell>
@@ -54,10 +57,15 @@
             <mxPoint x="414" y="940" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lbLH8gk7Jo5RWtjhjsnp-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lbLH8gk7Jo5RWtjhjsnp-26">
+          <mxGeometry x="-0.6997" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lbLH8gk7Jo5RWtjhjsnp-23" value="重新扫描循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lbLH8gk7Jo5RWtjhjsnp-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lbLH8gk7Jo5RWtjhjsnp-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lbLH8gk7Jo5RWtjhjsnp-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="200" as="sourcePoint" />
             <mxPoint x="520" y="150" as="targetPoint" />
