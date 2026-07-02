@@ -31,9 +31,16 @@
         <mxCell id="lbLH8gk7Jo5RWtjhjsnp-14" value="点亮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="524.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lbLH8gk7Jo5RWtjhjsnp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lbLH8gk7Jo5RWtjhjsnp-15">
+        <mxCell id="lbLH8gk7Jo5RWtjhjsnp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lbLH8gk7Jo5RWtjhjsnp-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="460" as="targetPoint" />
+            <mxPoint x="220" y="644.5" as="sourcePoint" />
+            <mxPoint x="216" y="464.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="294" y="645" />
+              <mxPoint x="200" y="645" />
+              <mxPoint x="200" y="541" />
+              <mxPoint x="217" y="541" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lbLH8gk7Jo5RWtjhjsnp-15" value="关闭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
