@@ -25,10 +25,8 @@
         <mxCell id="GJ-nzRgwGRu18Ie35tq--4" value="将读取的原始温度数据转换为十进制温度值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GJ-nzRgwGRu18Ie35tq--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GJ-nzRgwGRu18Ie35tq--5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="620" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GJ-nzRgwGRu18Ie35tq--5" target="GJ-nzRgwGRu18Ie35tq--33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--5" value="送入显示缓冲区并通过动态扫描显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="480" width="120" height="60" as="geometry" />
@@ -74,6 +72,9 @@
             <mxPoint x="229.76" y="220" as="sourcePoint" />
             <mxPoint x="229.76" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
