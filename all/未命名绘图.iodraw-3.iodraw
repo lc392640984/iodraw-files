@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Bu-SSjpg5ZrVK8vMMpOg">
-    <mxGraphModel dx="181" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="219" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,14 @@
         <mxCell id="GJ-nzRgwGRu18Ie35tq--2" value="对DS18B20发送温度转换命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GJ-nzRgwGRu18Ie35tq--3" target="GJ-nzRgwGRu18Ie35tq--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--3" value="读取温度的低字节和高字节" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GJ-nzRgwGRu18Ie35tq--4" target="GJ-nzRgwGRu18Ie35tq--5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--4" value="将读取的原始温度数据转换为十进制温度值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="390" width="120" height="60" as="geometry" />
@@ -21,10 +27,10 @@
         </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="410" as="sourcePoint" />
-            <mxPoint x="220" y="440" as="targetPoint" />
+            <mxPoint x="210" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="440" />
+              <mxPoint x="280" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
