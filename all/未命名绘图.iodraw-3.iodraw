@@ -71,6 +71,9 @@
         <mxCell id="GJ-nzRgwGRu18Ie35tq--48" value="单片机发送控制命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GJ-nzRgwGRu18Ie35tq--57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GJ-nzRgwGRu18Ie35tq--50" target="GJ-nzRgwGRu18Ie35tq--56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--50" value="发送&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;0xCC，跳过ROM匹配命令&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="680" width="120" height="60" as="geometry" />
         </mxCell>
@@ -78,7 +81,7 @@
           <mxGeometry x="170" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJ-nzRgwGRu18Ie35tq--56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
