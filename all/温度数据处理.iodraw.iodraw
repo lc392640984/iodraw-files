@@ -28,7 +28,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lbLH8gk7Jo5RWtjhjsnp-6" value="查表法将低4位小鼠数据转换为十进制小数位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lbLH8gk7Jo5RWtjhjsnp-6" value="查表法将低4位小数数据转换为十进制小数位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
